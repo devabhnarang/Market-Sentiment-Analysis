@@ -101,7 +101,7 @@ The notebook performs:
 # Project Structure
 
 ```text
-hyperliquid-sentiment-analysis/
+market-sentiment-analysis/
 │
 ├── data/
 │   ├── historical_data.zip
@@ -109,7 +109,7 @@ hyperliquid-sentiment-analysis/
 │
 ├── charts/
 ├── analysis.ipynb
-├── report_summary.md
+├── Project_Report.md
 ├── requirements.txt
 └── README.md
 ```
