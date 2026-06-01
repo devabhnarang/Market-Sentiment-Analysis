@@ -20,8 +20,8 @@ The project also explores trader segmentation and clustering to identify differe
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-github-repo-link>
-cd hyperliquid-sentiment-analysis
+git clone https://github.com/devabhnarang/Market-Sentiment-Analysis
+cd market-sentiment-analysis
 ```
 
 ---
